@@ -130,8 +130,8 @@ uiux-freelance-marketplace/
 
 ---
 ## Figma link
-  **website view :
+  **website view : https://www.figma.com/design/WbOzQJ7Y4ZLEjeOzKKrv6N/DesignHub-for-Freelance-desktop-view?node-id=11-263&t=clatFXGlrPlYOnZP-1
 
-  **mobile view :
+  **mobile view :https://www.figma.com/proto/SbZx5655v0XhzhTtHdHTzk/DesignHub-for-Freelance-mobile-view?node-id=2015-615&t=89eOtZOuvW4gHPvP-1
 
 
